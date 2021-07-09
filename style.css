@@ -208,7 +208,7 @@
     }
     .navbar {
         flex-direction: column;
-        transition: all 0.2s ease-out;
+        transition: all 0.6s ease-out;
         height: 478px;
     }
     .box-main {
